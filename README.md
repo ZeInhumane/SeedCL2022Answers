@@ -2,7 +2,7 @@
 
 ### Introduction
 
-SEED CODE LEAGUE is a yearly inter school competition organised by SEED(Singapore Polytechnic Student Interest Group). We aim to ....This repository consist of the **10** questions that will be used for the competition.
+SEED CODE LEAGUE is a yearly inter school competition organised by SEED(Singapore Polytechnic Student Interest Group). This repository consist of the **10** questions that will be used for the competition.
 
 ### Contents for this repository are as follows:
 
