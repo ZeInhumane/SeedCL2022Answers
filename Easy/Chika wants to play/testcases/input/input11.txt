@@ -1,0 +1,1 @@
+Chika Fujiwara is playing a game called "Flip Da Words". Players are given a sentence, and are tasked to reverse every word in that sentence. Chika, well... being Chika, she wants to cheat. She needs your help to make a program that given a sentence, outputs the reverse of every word.
